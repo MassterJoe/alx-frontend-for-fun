@@ -11,7 +11,7 @@ $color-red: #FF0000;
 
 body{
     color: $color;
-    .red:first-child{
+    > .red{
         color: $color-red;
     }
 }

@@ -13,7 +13,7 @@ $button-color: #00FF00;
 button{
     color: $color;
 
-    button:hover{
+    :hover{
     color: $button-color;
 }
 
